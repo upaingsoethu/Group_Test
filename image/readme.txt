@@ -1,0 +1,1 @@
+this is image file location folder for project.
